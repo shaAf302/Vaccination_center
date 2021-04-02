@@ -1,5 +1,5 @@
 # Vaccination_center
-C language project created to store data entered by user for Covid Vaccination(Name, DOB,Mobile number etc.)
+C language project created to store data entered by user for Covid Vaccination(Name, DOB,Mobile number etc.).
 #Installation:
 Simply run "covid.exe" executable file, and follow on-screen instructions.
 #Features:
