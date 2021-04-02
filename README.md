@@ -1,10 +1,6 @@
 # Vaccination_center
 C language project created to store data entered by user for Covid Vaccination(Name, DOB,Mobile number etc.)
 
-
-# SONGS
-C language project created to manage songs and their attributes (artist, release year, genre etc.) [Semester Project]
-
 # Overview:
 The program is designed to store data of user in a database. For each entry the program can store the following data: Name of patient, Date of Birth,Mobile number and free vaccination (Yes or NO).
 
